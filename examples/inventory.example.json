@@ -1,0 +1,10 @@
+{
+  "ComputerName": "WKSTN-LAB-01",
+  "Manufacturer": "Contoso Hardware",
+  "Model": "PortfolioBook 14",
+  "SerialNumber": "SYNTHETIC-001",
+  "OperatingSystem": "Microsoft Windows 11 Enterprise",
+  "OSVersion": "10.0.x",
+  "TotalMemoryGB": 16.0,
+  "CollectedAtUtc": "2026-09-20T10:00:00Z"
+}
