@@ -61,6 +61,14 @@ Get-DeviceInventory |
 - make output useful for CSV/JSON/reporting pipelines
 - keep collection and presentation separate
 
+## Documentation and examples
+
+- [Operational runbook](docs/operational-runbook.md)
+- [Microsoft Graph extension](docs/microsoft-graph-extension.md)
+- [Synthetic inventory example](examples/inventory.example.json)
+- [Module manifest](src/Waleed.ITAutomation.psd1)
+- [Technical references](docs/references.md)
+
 ## Skills demonstrated
 
 **PowerShell · Windows · Endpoint Engineering · Automation · CIM · BitLocker · Windows 11 · Pester · GitHub Actions**
