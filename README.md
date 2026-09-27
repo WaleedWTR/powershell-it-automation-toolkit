@@ -1,5 +1,7 @@
 # PowerShell IT Automation Toolkit
 
+![PowerShell tests](https://github.com/WaleedWTR/powershell-it-automation-toolkit/actions/workflows/pester.yml/badge.svg)
+
 A reusable PowerShell portfolio toolkit for endpoint health, inventory, BitLocker visibility and Windows 11 readiness checks.
 
 > **Portfolio note:** The scripts are designed for lab and portfolio use. Validate and adapt them before using them in an enterprise environment.
